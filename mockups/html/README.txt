@@ -1,6 +1,3 @@
-# domain-research
-Research for Web Advanced: JavaScript at Parsons
-
 ,`*DOMAIN QUESTIONNAIRE*`,
 
 1. List 10 available domains (use http://iwantmyname.com) you think would be appropriate for your site:
@@ -33,15 +30,3 @@ Probably not frequently. But the same time you need to reread poetry, need a pic
 
 The website is a navigational structure for a poem. It interacts with text and a story in an interesting way that isn't just text on a page.
 For instance you hav to hover over certain parts of the page to get certain passages to appear. Maybe you have to click? Drag elements around to trigger certain passages? Maybe there is user input? Basically anything interesting to get the user to have to interact with the words with another method that isn't just reading.
-
-
-
-
-http://perpetual.pizza/ 
-An infinite loop of pizza.
-
-http://ducksarethebest.com/
-Changes your mouse to a duck.
-
-http://www.movenowthinklater.com/
-A very fast game of checkers.
